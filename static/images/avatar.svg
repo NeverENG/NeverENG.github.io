@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">林默头像</title><desc id="desc">一枚带有 LM 字样的编辑风格头像</desc>
+  <rect width="320" height="320" fill="#c15b43"/>
+  <circle cx="160" cy="160" r="116" fill="#ead9c3"/>
+  <path d="M92 238c8-43 33-68 68-68s60 25 68 68" fill="#171716"/>
+  <circle cx="160" cy="136" r="47" fill="#d69a76"/>
+  <path d="M113 130c6-39 26-59 53-59 30 0 47 19 49 56-15-12-31-18-48-18-18 0-36 7-54 21Z" fill="#171716"/>
+  <circle cx="143" cy="139" r="4" fill="#171716"/><circle cx="177" cy="139" r="4" fill="#171716"/>
+  <path d="M150 158c7 5 14 5 21 0" fill="none" stroke="#8e3827" stroke-width="3" stroke-linecap="round"/>
+  <path d="M54 66h54M212 66h54M54 254h54M212 254h54" stroke="#ead9c3" stroke-width="2" opacity=".8"/>
+  <text x="160" y="290" text-anchor="middle" font-family="monospace" font-size="15" letter-spacing="4" fill="#ead9c3">LM / 04</text>
+</svg>

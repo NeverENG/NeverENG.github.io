@@ -1,0 +1,31 @@
+baseURL = '/'
+locale = 'zh-cn'
+title = '林默 · 随笔与观察'
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+[params]
+  author = '林默'
+  description = '记录技术、设计与日常观察。'
+  email = 'hello@linmo.studio'
+  github = 'https://github.com'
+  githubName = 'linmo'
+  qq = '向我提问'
+  wechat = 'linmo_notes'
+  location = 'Shanghai / China'
+  motto = '保持好奇，持续写作。'
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    style = 'github'
+
+[pagination]
+  pagerSize = 6
