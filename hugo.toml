@@ -7,11 +7,11 @@ hasCJKLanguage = true
 [params]
   author = 'BangBang'
   description = '记录技术、设计与日常观察。'
-  email = 'hello@linmo.studio'
-  github = 'https://github.com'
-  githubName = 'linmo'
-  qq = '向我提问'
-  wechat = 'linmo_notes'
+  email = '2967094107@qq.com'
+  github = 'https://github.com/NeverENG'
+  githubName = 'NeverENG'
+  qq = '2967094107'
+  wechat = 'a2967094107'
   location = 'Shanghai / China'
   motto = '保持好奇，持续写作。'
 
