@@ -1,11 +1,11 @@
 baseURL = '/'
 locale = 'zh-cn'
-title = '林默 · 随笔与观察'
+title = 'BangBang'
 enableRobotsTXT = true
 hasCJKLanguage = true
 
 [params]
-  author = '林默'
+  author = 'BangBang'
   description = '记录技术、设计与日常观察。'
   email = 'hello@linmo.studio'
   github = 'https://github.com'
