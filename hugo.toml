@@ -1,6 +1,6 @@
 baseURL = 'https://nevereng.github.io/'
 locale = 'zh-cn'
-title = 'BangBang'
+title = '吕宇轩｜我的读书之路'
 enableRobotsTXT = true
 hasCJKLanguage = true
 summaryLength = 120
