@@ -3,6 +3,7 @@ locale = 'zh-cn'
 title = 'BangBang'
 enableRobotsTXT = true
 hasCJKLanguage = true
+summaryLength = 120
 
 [params]
   author = 'BangBang'
@@ -12,7 +13,7 @@ hasCJKLanguage = true
   githubName = 'NeverENG'
   qq = '2967094107'
   wechat = 'a2967094107'
-  location = 'Shanghai / China'
+  location = 'NanChang / China'
   motto = '保持好奇，持续写作。'
 
 [taxonomies]
