@@ -366,7 +366,7 @@ body {
 
 /* Flat, single-column reading measure: no side rail, no offset body. */
 .article-header {
-  max-width: 760px;
+  max-width: 860px;
   margin: 0 auto;
   padding: 0 0 48px;
 }
@@ -388,7 +388,7 @@ body {
 }
 
 .article-toc {
-  max-width: 760px;
+  max-width: 860px;
   margin: 0 auto;
   padding: 28px 0 30px;
   border-bottom: 1px solid var(--line);
@@ -477,7 +477,7 @@ body {
 }
 
 .article-body {
-  max-width: 760px;
+  max-width: 860px;
   margin: 0 auto;
   padding-top: 46px;
   font-size: 19px;
