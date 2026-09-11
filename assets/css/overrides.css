@@ -361,18 +361,39 @@ body {
 }
 
 .article-page {
-  padding: clamp(48px, 5vw, 72px) 0 120px;
+  padding: clamp(30px, 3.2vw, 46px) 0 110px;
 }
 
 /* Flat, single-column reading measure: no side rail, no offset body. */
 .article-header {
-  max-width: 860px;
+  max-width: 920px;
   margin: 0 auto;
-  padding: 0 0 48px;
+  padding: 0 0 40px;
+}
+
+/* Quiet utility row: the back link must not compete with the title. */
+.article-topline {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 6px 24px;
+  margin-bottom: 26px;
 }
 
 .back-link {
-  margin-bottom: 38px;
+  margin-bottom: 0;
+  color: var(--muted);
+  text-transform: none;
+  transition: color .15s ease;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
+.article-meta {
+  margin-bottom: 0;
 }
 
 .article-header h1 {
@@ -388,7 +409,7 @@ body {
 }
 
 .article-toc {
-  max-width: 860px;
+  max-width: 920px;
   margin: 0 auto;
   padding: 28px 0 30px;
   border-bottom: 1px solid var(--line);
@@ -477,9 +498,9 @@ body {
 }
 
 .article-body {
-  max-width: 860px;
+  max-width: 920px;
   margin: 0 auto;
-  padding-top: 46px;
+  padding-top: 40px;
   font-size: 19px;
   line-height: 1.9;
 }
